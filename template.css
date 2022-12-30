@@ -1,0 +1,75 @@
+#all{
+    
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 700px;
+    
+}
+#img1{
+   
+    margin-left: 200px;
+    margin-top: 60px;
+    
+}
+#img{
+    margin-top: 20px;
+}
+#re{
+    margin-top: 150px;
+    font-size: 48px;
+    margin-left: 45px;
+}
+#b{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 45px;
+    
+}
+#row{
+    padding-top: 15px;
+}
+#img3{
+    margin-left: 15px;
+    padding-top: 20px;
+}
+#img4{
+    margin-left: 15px;
+    padding-top: 20px;
+}
+#img5{
+    margin-left: 15px;
+    padding-top: 20px;
+}
+#img2{
+    padding-top: 20px;
+    margin-left: 45px;
+}
+#lo{
+margin-left: 600px;
+color: black;
+padding-right: 25px;
+}
+
+#b1{
+
+
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+#f{
+    color: black;
+}
+#ca{
+    color: black;
+}
+#ab{
+    color: black;
+}
+#p{
+    margin-left: 45px;
+}
